@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Northstar workshop previews</title>
+  <style>
+    :root { color-scheme: light; font-family: system-ui, sans-serif; color: #252522; background: #f6f5f2; }
+    body { margin: 0; }
+    header { background: #312d2a; color: #fff; padding: 2.5rem max(1.25rem, calc((100% - 70rem) / 2)); }
+    header p { color: #e8dfd7; max-width: 52rem; line-height: 1.6; }
+    .eyebrow { color: #ffb9a4; font-size: .8rem; letter-spacing: .12em; font-weight: 700; text-transform: uppercase; }
+    h1 { font-size: clamp(2rem, 5vw, 3rem); margin: .6rem 0; }
+    main { max-width: 70rem; margin: auto; padding: 2rem 1.25rem 4rem; }
+    .notice { border-left: 4px solid #b53a20; padding: .2rem 1rem; background: #fff; line-height: 1.6; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 19rem), 1fr)); gap: 1rem; margin-top: 1.5rem; }
+    article { background: white; border: 1px solid #dedad4; border-radius: .5rem; padding: 1.4rem; display: flex; flex-direction: column; }
+    article h2 { font-size: 1.2rem; margin: 0 0 .5rem; }
+    article p { line-height: 1.5; color: #59534e; flex: 1; }
+    .links { display: flex; gap: .7rem; flex-wrap: wrap; }
+    a { color: #962f18; }
+    .links a { border: 1px solid #a7371f; border-radius: .3rem; padding: .55rem .75rem; font-weight: 650; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    a:focus-visible { outline: 3px solid #205c9b; outline-offset: 3px; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="eyebrow">Oracle LiveLabs · Draft previews</div>
+    <h1>Northstar workshops</h1>
+    <p>Explore Oracle Autonomous AI Database Serverless on Azure with Maya and Alex. Choose the environment version to open its workshop.</p>
+  </header>
+  <main>
+    <div class="notice"><p><strong>Preview content:</strong> These workshops are drafts. Run on Multicloud availability, live exercises, and accessibility still require validation. Opening a preview does not provide an environment.</p></div>
+    <div class="grid">
+      <article><h2>QuickStart</h2><p>Use a small inventory snapshot to make an initial business decision.</p><div class="links"><a href="quickstart/workshops/tenancy/">Bring your own</a><a href="quickstart/workshops/sandbox/">Run on Multicloud</a></div></article>
+      <article><h2>Launch the Inventory Service</h2><p>Explore the network, provision a database, and deliver an inventory result.</p><div class="links"><a href="launch-inventory-service/workshops/tenancy/">Bring your own</a><a href="launch-inventory-service/workshops/sandbox/">Run on Multicloud</a></div></article>
+      <article><h2>See and Scale the Service</h2><p>Observe the service and make an evidence-based capacity recommendation.</p><div class="links"><a href="see-and-scale-service/workshops/tenancy/">Bring your own</a><a href="see-and-scale-service/workshops/sandbox/">Run on Multicloud</a></div></article>
+      <article><h2>Recover from a Mistake</h2><p>Investigate a change and validate inventory in a separate backup copy.</p><div class="links"><a href="recover-from-a-mistake/workshops/tenancy/">Bring your own</a><a href="recover-from-a-mistake/workshops/sandbox/">Run on Multicloud</a></div></article>
+      <article><h2>Create an Autonomous AI Database on Azure</h2><p>Explore delegated networking and creation methods, including the LiveLabs method tabs.</p><div class="links"><a href="create-autonomous-database/workshops/tenancy/">Bring your own</a><a href="create-autonomous-database/workshops/sandbox/">Run on Multicloud</a></div></article>
+    </div>
+  </main>
+</body>
+</html>
