@@ -990,7 +990,7 @@ html[data-theme="dark"] #openNav[aria-expanded="true"]::after {
     padding: 13px clamp(12px, 2vw, 26px);
     color: var(--tab-label);
     background: transparent;
-    font-size: 1.25rem;
+    font-size: 1.125rem;
     line-height: 1.4;
     font-weight: 700;
     text-decoration: none;
