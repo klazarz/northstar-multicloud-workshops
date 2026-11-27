@@ -30,8 +30,6 @@ If the assigned subnet is missing or has a different delegation, stop and ask th
 
 **Checkpoint:** You can identify the correct virtual network, delegated subnet and client path. Keep these details for the next lab.
 
-You may now **proceed to the next lab**.
-
 ## Acknowledgements
 
 * **Author and contributors** - To be confirmed before publication

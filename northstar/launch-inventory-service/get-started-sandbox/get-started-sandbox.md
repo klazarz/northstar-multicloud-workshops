@@ -26,8 +26,6 @@ Estimated lab time: 10 minutes, after the environment is ready.
 
 The availability and exact access flow of this sandbox must be confirmed by the workshop provider. Do not assume that a generic OCI sandbox includes an Azure subscription or this service.
 
-You may now **proceed to the next lab**.
-
 ## Acknowledgements
 
 * **Author and contributors** - To be confirmed before publication

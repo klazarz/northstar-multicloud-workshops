@@ -24,8 +24,6 @@ Estimated lab time: 10 minutes.
 4. If using Azure CLI, confirm the approved shell, signed-in account, subscription, installed CLI and `oracle-database` extension. For the Azure resource creation procedure, Oracle documents Azure CLI 2.87.0 or later and extension 2.0.4 or later. Follow your organization's authentication policy; do not paste credentials into commands or public notes.
 5. If any required access or handoff is missing, contact the owner or facilitator before continuing. Do not alter shared networking to make the workshop work.
 
-You may now **proceed to the next lab**.
-
 ## Acknowledgements
 
 * **Author and contributors** - To be confirmed before publication

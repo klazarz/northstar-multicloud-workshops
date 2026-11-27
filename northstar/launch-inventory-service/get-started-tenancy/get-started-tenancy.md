@@ -26,8 +26,6 @@ Estimated lab time: 10 minutes, after administrators have prepared the environme
 3. Confirm who will create a dedicated workshop user on the new database after provisioning. The user needs Database Actions web access, CREATE SESSION and CREATE TABLE privileges, and DATA tablespace quota. The facilitator guide describes the preparation.
 4. Confirm the budget, licensed model, resource settings, and who owns cleanup. If a required permission or access path is missing, resolve it before continuing. Do not alter shared network resources.
 
-You may now **proceed to the next lab**.
-
 ## Acknowledgements
 
 * **Author and contributors** - To be confirmed before publication

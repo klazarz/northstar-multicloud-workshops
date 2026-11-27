@@ -27,8 +27,6 @@ If you cannot connect, contact your administrator. If your environment uses a pr
 
 Do not share passwords, wallet files, or connection details in screenshots or workshop comments.
 
-You may now **proceed to the next lab**.
-
 ## Acknowledgements
 
 * **Author and contributors** - To be confirmed before publication

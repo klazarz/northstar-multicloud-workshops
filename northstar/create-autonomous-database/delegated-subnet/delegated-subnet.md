@@ -125,8 +125,6 @@ For the network you will actually use, record the subscription, resource group, 
 
 If the delegation or resource identity cannot be verified, stop and ask the environment owner for help. A validated subnet alone does not prove that a database connection or client network path works; you will check the database separately.
 
-You may now **proceed to the next lab**.
-
 ## Learn more
 
 * [Create a delegated subnet](https://docs.oracle.com/en-us/iaas/Content/database-at-azure/azucr-create-delegated-subnet.html)

@@ -65,8 +65,6 @@ Estimated lab time: 20 minutes.
 
 The source still shows the mistaken value; the separate copy contains the earlier value. Together with the verified backup provenance and timeline, the comparison supports the recovery of the earlier snapshot. It does not itself repair the source or prove that 12 units are physically in stock today.
 
-You may now **proceed to the next lab**.
-
 ## Acknowledgements
 
 * **Author and contributors** - To be confirmed before publication

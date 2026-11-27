@@ -42,8 +42,6 @@ Estimated lab time: 15 minutes.
 
 **Checkpoint:** You have a verified inventory query and a timestamped metric observation or a clearly documented data gap.
 
-You may now **proceed to the next lab**.
-
 ## Acknowledgements
 
 * **Author and contributors** - To be confirmed before publication

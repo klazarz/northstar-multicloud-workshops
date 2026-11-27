@@ -27,8 +27,6 @@ Estimated lab time: 10 minutes after preparation.
 
 The provider must confirm that the Run on Multicloud reservation supports this Azure service and these capabilities. A generic OCI sandbox alone does not establish Azure access.
 
-You may now **proceed to the next lab**.
-
 ## Acknowledgements
 
 * **Author and contributors** - To be confirmed before publication

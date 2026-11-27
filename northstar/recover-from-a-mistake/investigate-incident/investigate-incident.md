@@ -74,8 +74,6 @@ Estimated lab time: 15 minutes.
 
 Maya's concern is now reproducible: the current record says zero, but the earlier report said 12. A current value alone cannot tell you which is correct.
 
-You may now **proceed to the next lab**.
-
 ## Acknowledgements
 
 * **Author and contributors** - To be confirmed before publication

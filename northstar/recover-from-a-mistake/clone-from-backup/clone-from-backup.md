@@ -32,8 +32,6 @@ Identify the supplied prepared copy. Check its resource name, source, backup tim
 
 Record **prepared copy** as the route used, and carry its SQL connection details securely into the next lab. If you also submitted a new clone, record its current state and its owner for follow-up and cleanup.
 
-You may now **proceed to the next lab**.
-
 ## Learn more
 
 * [Clone from a backup](https://docs.oracle.com/en-us/iaas/Content/database-at-azure/azurs-restore-autonomous-ai-database-serverless-clone.html)

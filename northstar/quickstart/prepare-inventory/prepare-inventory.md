@@ -92,8 +92,6 @@ FROM ns_inventory;
 **Expected result:** `PRODUCT_COUNT` is `6`. If it is not, stop and ask for help before continuing.
 
 
-You may now **proceed to the next lab**.
-
 ## Acknowledgements
 
 * **Author and contributors** - To be confirmed before publication

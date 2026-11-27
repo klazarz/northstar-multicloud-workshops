@@ -27,8 +27,6 @@ The detailed [database creation page](https://docs.oracle.com/en-us/iaas/Content
 
 **Checkpoint:** Tell Maya which cloud owns network and database creation, which method you selected, and one configuration item requiring owner verification.
 
-You may now **proceed to the next lab**.
-
 ## Acknowledgements
 
 * **Author and contributors** - To be confirmed before publication

@@ -31,8 +31,6 @@ CPU utilization is a percentage relative to the CPUs the database is allowed to 
 
 **Checkpoint:** Your notes identify the metric, resource, time range and observation or explicitly document that no data was visible.
 
-You may now **proceed to the next lab**.
-
 ## Acknowledgements
 
 * **Author and contributors** - To be confirmed before publication

@@ -27,8 +27,6 @@ A backup clone creates a **separate database** containing the selected backup's 
 
 Write a short timeline: seed committed → eligible backup → practice mistake committed. Explain why this backup is a candidate, while remembering that the data in the clone still needs validation.
 
-You may now **proceed to the next lab**.
-
 ## Learn more
 
 * [Automatic backups](https://docs.oracle.com/en-us/iaas/Content/database-at-azure/azubu-backup-autonomous-ai-database-serverless-automatic.html)

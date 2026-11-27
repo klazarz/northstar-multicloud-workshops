@@ -35,8 +35,6 @@ If the environment does not permit creation, ask the facilitator to perform it. 
 
 **Checkpoint:** You have either submitted and inspected a database creation or observed the facilitator do so, and you know which database you will use next.
 
-You may now **proceed to the next lab**.
-
 ## Acknowledgements
 
 * **Author and contributors** - To be confirmed before publication

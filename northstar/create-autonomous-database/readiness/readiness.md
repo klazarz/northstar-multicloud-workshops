@@ -25,8 +25,6 @@ Estimated lab time: 10 minutes.
 
 **Checkpoint:** You have either an approved creation plan plus a fallback, or a prepared-resource plan with the creation limitation recorded.
 
-You may now **proceed to the next lab**.
-
 ## Learn more
 
 * [Onboarding](https://docs.oracle.com/en-us/iaas/Content/database-at-azure/oaaonboard.htm)

@@ -76,8 +76,6 @@ Estimated lab time: 15 minutes.
 
 **Checkpoint:** You have an allocation baseline and a six-row inventory snapshot in the assigned schema. The result is sample data, not production inventory.
 
-You may now **proceed to the next lab**.
-
 ## Acknowledgements
 
 * **Author and contributors** - To be confirmed before publication

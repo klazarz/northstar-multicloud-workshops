@@ -25,8 +25,6 @@ Estimated lab time: 10 minutes
 
 If the reservation does not provide these details or the URL is unreachable, contact your facilitator or the reservation support team. Do not share passwords, wallet files, or connection details in screenshots or workshop comments.
 
-You may now **proceed to the next lab**.
-
 ## Acknowledgements
 
 * **Author and contributors** - To be confirmed before publication

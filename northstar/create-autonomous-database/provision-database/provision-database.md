@@ -133,8 +133,6 @@ The creation matrix marks OCI CLI **Not Supported (By Design)** for creating thi
 
 **Checkpoint:** You have documented either a creation request or an explicit reason for using the prepared resource, and selected an accessible database for Maya's inventory check.
 
-You may now **proceed to the next lab**.
-
 ## Learn more
 
 * [Create an Autonomous AI Database Serverless in Azure](https://docs.oracle.com/en-us/iaas/Content/database-at-azure/azucr-create-autonomous-ai-database-serverless.html)

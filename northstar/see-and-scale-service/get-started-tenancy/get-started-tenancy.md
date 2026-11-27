@@ -25,8 +25,6 @@ Estimated lab time: 10 minutes after preparation.
 3. Record the owner, resource name, current budget and permission to inspect metrics. Ask whether a temporary ECPU change is permitted and, if so, the approved target and restoration plan. If not, you can still complete the decision exercise without applying a change.
 4. If you are starting independently, obtain a ready database and isolated schema from your administrator. Lab 1 provides the sample data setup for an empty schema. Do not use a production database or alter a shared resource for this exercise.
 
-You may now **proceed to the next lab**.
-
 ## Acknowledgements
 
 * **Author and contributors** - To be confirmed before publication

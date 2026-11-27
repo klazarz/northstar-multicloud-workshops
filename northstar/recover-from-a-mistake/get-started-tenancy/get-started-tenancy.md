@@ -26,8 +26,6 @@ Estimated lab time: 10 minutes.
 3. Record the snapshot commit time and the verified eligible backup timestamp, both in UTC, and the prepared copy's source and backup timestamp. Confirm the snapshot commit precedes the backup, and the copy comes from this source and backup. Also obtain the owner's clone settings, approved budget, cleanup owner and the cutoff for waiting on a clone.
 4. Sign in to Azure and confirm that you can find the source and view **Settings > Backups**. Confirm you can connect to both databases. If any handoff or access is missing, ask your facilitator or environment owner before proceeding. Do not substitute another database or backup.
 
-You may now **proceed to the next lab**.
-
 ## Acknowledgements
 
 * **Author and contributors** - To be confirmed before publication

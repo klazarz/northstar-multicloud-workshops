@@ -37,8 +37,6 @@ Estimated lab time: 20 minutes.
 
 **Checkpoint:** You can explain the setting you selected and have either verified the approved change and restoration, recorded an outstanding operation, or completed a decision-only exercise. None of these observations alone proves that auto scaling was triggered.
 
-You may now **proceed to the next lab**.
-
 ## Acknowledgements
 
 * **Author and contributors** - To be confirmed before publication
