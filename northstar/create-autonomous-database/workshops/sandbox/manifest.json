@@ -1,0 +1,50 @@
+{
+    "workshoptitle": "Create an Autonomous AI Database on Azure",
+    "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Get Started",
+            "filename": "../../get-started-sandbox/get-started-sandbox.md"
+        },
+        {
+            "title": "Introduction",
+            "filename": "../../introduction/introduction.md"
+        },
+        {
+            "title": "Lab 1: Prepare the Launch",
+            "filename": "../../readiness/readiness.md"
+        },
+        {
+            "title": "Lab 2: Choose a Creation Method",
+            "filename": "../../choose-approach/choose-approach.md"
+        },
+        {
+            "title": "Lab 3: Prepare the Delegated Subnet",
+            "filename": "../../delegated-subnet/delegated-subnet.md",
+            "type": {
+                "azure_portal": "Azure Portal",
+                "azure_cli": "Azure CLI",
+                "oci_console": "OCI Console",
+                "oci_cli": "OCI CLI"
+            }
+        },
+        {
+            "title": "Lab 4: Create the Database",
+            "filename": "../../provision-database/provision-database.md",
+            "type": {
+                "azure_portal": "Azure Portal",
+                "azure_cli": "Azure CLI",
+                "oci_console": "OCI Console",
+                "oci_cli": "OCI CLI"
+            }
+        },
+        {
+            "title": "Lab 5: Verify and Hand Off",
+            "filename": "../../verify-handoff/verify-handoff.md"
+        },
+        {
+            "title": "Need Help?",
+            "filename": "../../need-help/need-help.md"
+        }
+    ]
+}

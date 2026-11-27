@@ -1,0 +1,38 @@
+{
+    "workshoptitle": "See and Scale the Service",
+    "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Get Started",
+            "filename": "../../get-started-sandbox/get-started-sandbox.md"
+        },
+        {
+            "title": "Introduction",
+            "filename": "../../introduction/introduction.md"
+        },
+        {
+            "title": "Lab 1: Establish a Baseline",
+            "filename": "../../baseline-service/baseline-service.md"
+        },
+        {
+            "title": "Lab 2: See the Service in Azure Monitor",
+            "filename": "../../monitor-service/monitor-service.md"
+        },
+        {
+            "title": "Lab 3: Run and Observe an Inventory Query",
+            "filename": "../../run-workload/run-workload.md"
+        },
+        {
+            "title": "Lab 4: Explore and Adjust Capacity",
+            "filename": "../../scale-service/scale-service.md"
+        },
+        {
+            "title": "Lab 5: Give Maya a Capacity Recommendation",
+            "filename": "../../recommendation/recommendation.md"
+        },
+        {
+            "title": "Need Help?",
+            "filename": "../../need-help/need-help.md"
+        }
+    ]
+}

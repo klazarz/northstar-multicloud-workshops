@@ -1,0 +1,38 @@
+{
+    "workshoptitle": "Recover from a Mistake",
+    "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Get Started",
+            "filename": "../../get-started-sandbox/get-started-sandbox.md"
+        },
+        {
+            "title": "Introduction",
+            "filename": "../../introduction/introduction.md"
+        },
+        {
+            "title": "Lab 1: Investigate the Incident",
+            "filename": "../../investigate-incident/investigate-incident.md"
+        },
+        {
+            "title": "Lab 2: Find a Recovery Point",
+            "filename": "../../inspect-backups/inspect-backups.md"
+        },
+        {
+            "title": "Lab 3: Create a Recovery Copy",
+            "filename": "../../clone-from-backup/clone-from-backup.md"
+        },
+        {
+            "title": "Lab 4: Validate the Recovery Copy",
+            "filename": "../../validate-recovery/validate-recovery.md"
+        },
+        {
+            "title": "Lab 5: Give Maya a Recovery Handoff",
+            "filename": "../../recovery-handoff/recovery-handoff.md"
+        },
+        {
+            "title": "Need Help?",
+            "filename": "../../need-help/need-help.md"
+        }
+    ]
+}

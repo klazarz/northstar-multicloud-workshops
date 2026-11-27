@@ -1,0 +1,5 @@
+# Track the Northstar workshop collection and these ignore rules only.
+/*
+!/northstar/
+!/.gitignore
+.DS_Store

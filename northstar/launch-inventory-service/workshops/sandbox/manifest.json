@@ -1,0 +1,30 @@
+{
+    "workshoptitle": "Launch the Inventory Service",
+    "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Get Started",
+            "filename": "../../get-started-sandbox/get-started-sandbox.md"
+        },
+        {
+            "title": "Introduction",
+            "filename": "../../introduction/introduction.md"
+        },
+        {
+            "title": "Lab 1: Inspect the Network",
+            "filename": "../../inspect-network/inspect-network.md"
+        },
+        {
+            "title": "Lab 2: Launch the Inventory Database",
+            "filename": "../../provision-database/provision-database.md"
+        },
+        {
+            "title": "Lab 3: Connect and Deliver the Inventory Result",
+            "filename": "../../connect-and-handoff/connect-and-handoff.md"
+        },
+        {
+            "title": "Need Help?",
+            "filename": "../../need-help/need-help.md"
+        }
+    ]
+}
